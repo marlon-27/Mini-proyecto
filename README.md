@@ -1,2 +1,2 @@
-# Trabajo experimental
+#mini proyect
  con django
